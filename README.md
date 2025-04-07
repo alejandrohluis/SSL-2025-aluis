@@ -1,5 +1,6 @@
 # Sintaxis y Semantica de los Lenguajes
 Repositorio donde resuelvo ejercicios de la guia de Sintaxis y Semantica de los Lenguajes.
+
 - Año
   - 2025
 - Curso
@@ -15,10 +16,11 @@ Repositorio donde resuelvo ejercicios de la guia de Sintaxis y Semantica de los 
 | Capitulo 1 | Capitulo 2 | Capitulo 3 | Capitulo 4 | Capitulo 5 |
 | :--------: | :--------: | :--------: | :--------: | :--------: |
 |     20     |     -      |     -      |     -      |     -      |
-|     21     |
+|     21     |     -      |     -      |     -      |     -      |
 
-___
-[Capitulo 1](capitulo-1.c)
+### 
+##
+**[Capitulo 1](capitulo-1.c)**
 + [x] Ejercicio 20
     + [x] (a) Calcula la longitud de una cadena.
     + [x] (b) Determina si una cadena dada es vacía.
