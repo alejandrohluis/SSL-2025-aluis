@@ -1,5 +1,5 @@
 # Sintaxis y Semantica de los Lenguajes
-Repositorio donde resuelvo ejercicios de la guia de Sintaxis y Semantica de los Lenguajes.
+Repositorio para el tp-0, además de resolver ejercicios de la guia.
 
 - Año
   - 2025
