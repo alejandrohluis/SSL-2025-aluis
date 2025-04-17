@@ -29,9 +29,11 @@ Repositorio donde resuelvo ejercicios de la guia de Sintaxis y Semantica de los 
 + [x] Ejercicio 21
     + [x] Construya un programa de testeo para cada función del ejercicio anterior.
 
-      TODO list:
-+ Concatenar:
-    + como funciona strconcat
-    + malloc ?
-    + agregar '\0' al final de la cadena
-    + tercer parametro para la función asi no declaro una variable local dentro de la función
+  
+  **TODO list:**
++ [x] Concatenar:
+    + [x] ver como funciona strconcat
+    + [x] arreglar cadenaConcatenar, opciones:
+        + usar malloc && free
+        + ~~añadir tercer parametro~~
+    + [x] agregar '\0' al final de la cadena
